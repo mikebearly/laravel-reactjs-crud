@@ -15,6 +15,7 @@ Please follow the guide.
 2. `create a .env file copy content from .env.example and update the values`
 3. `composer install && composer update`
 4. `php artisan migrate:refresh`
+5. `php artisan db:seed`
 5. `npm install && npm run dev`
 6. `php artisan key:generate`
 7. `php artisan serve`
