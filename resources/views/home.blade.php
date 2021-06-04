@@ -1,18 +1,6 @@
 @extends('layouts.app')
-
 @section('content')
-<div class="container">
-    <div class="row justify-content-center">
-        <div class="col-md-12">
-            <div class="card">
-                <div class="card-header">Blogger</div>
-                <div class="card-body">
-                    <div id="react-js"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+    <div id="react-js"></div>
     @push('react-css-include')
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">

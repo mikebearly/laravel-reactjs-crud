@@ -27,7 +27,7 @@ render(){
                 </nav>
 
                 <Switch>
-                    <Route exact path="/home">
+                    <Route exact path={["/", "/home"]}>
                         <Blog />
                     </Route>
                     <Route path="/create-blog">
