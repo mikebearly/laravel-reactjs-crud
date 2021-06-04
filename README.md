@@ -1,13 +1,6 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
-
 ## Laravel 7.5.2 and React 16.2.0
 
 Please follow the guide.
-
-## Prerequisite
-
-1. Make sure you have [composer](https://getcomposer.org/download/) installed.
-2. Make sure you have latest stable version of [node](https://nodejs.org/en/download/) installed.
 
 ### Setup and Installation
 
@@ -27,8 +20,6 @@ open browser and check the following address
 
 TODO:
 
-- [x] User Login
-- [x] User Register
 - [x] Blog List
 - [x] Blog Create
 - [x] Blog Remove
@@ -39,10 +30,3 @@ TODO:
 - [x] Axios
 - [x] Inline-CSS
 - [x] Router and Dynamic Routing
-
-
-## App Screenshots
-
-<img src="public/image1.png" alt="Laravel React CRUD" />
-<img src="public/image2.png" alt="Laravel React CRUD" />
-<img src="public/image3.png" alt="Laravel React CRUD" />
